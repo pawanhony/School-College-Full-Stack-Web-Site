@@ -1,0 +1,88 @@
+/* home menu */
+
+.t1
+{
+    height:20px;
+    width: 20px;
+    margin: 5px;
+    
+}
+a {
+    text-decoration: none;
+}
+.menu1
+{
+    height: 70px;
+    
+}
+.menu2  /*  menubar   */
+{
+    
+    font-weight: bold;
+
+}
+.log
+{
+    height: 80px;
+    width: 100px;
+    margin: auto;
+}
+.bdy
+{
+    height: 900px;
+}
+.foot
+{
+    height: 100px;
+}
+.smallp    /* small dp   */
+{
+    height:25px ;
+    width: 25px;
+}
+.cover              /* profile page  */
+{
+    height: 300px;
+    width: 1000px;
+    border-radius: 15px;
+}
+.propic 
+{
+    margin-left: -200px;  
+    margin-top: -200px;
+    border-radius: 10px;
+}
+.pdimens
+{
+    height: 200px;
+    width: 180px;
+    border-radius: 10px;
+}
+.proname
+{
+    height: 80px;
+    width: 1000px;
+    
+}
+.pname
+{
+    margin-left: 300px;
+    font-size: 30px;
+    line-height: 80px;
+    width: 400px;
+}
+.pmenubox
+{
+    height: 800px;
+    width: 1000px;
+}
+.smenu
+{
+    width: 200px;
+}
+.ssmenu
+{
+    width: 700px;
+    margin-left: 300px;
+    font-size: 22px;
+}
